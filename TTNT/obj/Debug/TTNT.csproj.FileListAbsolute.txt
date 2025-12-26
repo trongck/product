@@ -1,0 +1,54 @@
+E:\TIC TAC TOE\TTNT\bin\Debug\TTNT.exe.config
+E:\TIC TAC TOE\TTNT\bin\Debug\TTNT.exe
+E:\TIC TAC TOE\TTNT\bin\Debug\TTNT.pdb
+E:\TIC TAC TOE\TTNT\obj\Debug\TTNT.csproj.AssemblyReference.cache
+E:\TIC TAC TOE\TTNT\obj\Debug\TTNT.Ban_Co.resources
+E:\TIC TAC TOE\TTNT\obj\Debug\TTNT.frmTrangchu.resources
+E:\TIC TAC TOE\TTNT\obj\Debug\TTNT.Properties.Resources.resources
+E:\TIC TAC TOE\TTNT\obj\Debug\TTNT.TIC_TAC_TOE.resources
+E:\TIC TAC TOE\TTNT\obj\Debug\TTNT.csproj.GenerateResource.cache
+E:\TIC TAC TOE\TTNT\obj\Debug\TTNT.csproj.CoreCompileInputs.cache
+E:\TIC TAC TOE\TTNT\obj\Debug\TTNT.exe
+E:\TIC TAC TOE\TTNT\obj\Debug\TTNT.pdb
+E:\TIC TAC TOE\TTNT\bin\Debug\x.png
+E:\TIC TAC TOE\TTNT\bin\Debug\o2.png
+E:\TIC TAC TOE\TTNT\bin\Debug\x1.png
+E:\TIC TAC TOE\TTNT\bin\Debug\o1.png
+E:\TIC TAC TOE\TTNT\bin\Debug\o.png
+E:\TIC TAC TOE\TTNT\bin\Debug\x2.png
+C:\Users\Admin\Downloads\TTNT\TTNT\bin\Debug\x.png
+C:\Users\Admin\Downloads\TTNT\TTNT\bin\Debug\o2.png
+C:\Users\Admin\Downloads\TTNT\TTNT\bin\Debug\x1.png
+C:\Users\Admin\Downloads\TTNT\TTNT\bin\Debug\o1.png
+C:\Users\Admin\Downloads\TTNT\TTNT\bin\Debug\o.png
+C:\Users\Admin\Downloads\TTNT\TTNT\bin\Debug\x2.png
+C:\Users\Admin\Downloads\TTNT\TTNT\bin\Debug\TTNT.exe.config
+C:\Users\Admin\Downloads\TTNT\TTNT\bin\Debug\TTNT.exe
+C:\Users\Admin\Downloads\TTNT\TTNT\bin\Debug\TTNT.pdb
+C:\Users\Admin\Downloads\TTNT\TTNT\obj\Debug\TTNT.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\TTNT\TTNT\obj\Debug\TTNT.Ban_Co.resources
+C:\Users\Admin\Downloads\TTNT\TTNT\obj\Debug\TTNT.frmTrangchu.resources
+C:\Users\Admin\Downloads\TTNT\TTNT\obj\Debug\TTNT.Properties.Resources.resources
+C:\Users\Admin\Downloads\TTNT\TTNT\obj\Debug\TTNT.TIC_TAC_TOE.resources
+C:\Users\Admin\Downloads\TTNT\TTNT\obj\Debug\TTNT.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\TTNT\TTNT\obj\Debug\TTNT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\TTNT\TTNT\obj\Debug\TTNT.exe
+C:\Users\Admin\Downloads\TTNT\TTNT\obj\Debug\TTNT.pdb
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\bin\Debug\x.png
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\bin\Debug\o2.png
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\bin\Debug\x1.png
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\bin\Debug\o1.png
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\bin\Debug\o.png
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\bin\Debug\x2.png
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\bin\Debug\TTNT.exe.config
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\bin\Debug\TTNT.exe
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\bin\Debug\TTNT.pdb
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\obj\Debug\TTNT.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\obj\Debug\TTNT.Ban_Co.resources
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\obj\Debug\TTNT.frmTrangchu.resources
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\obj\Debug\TTNT.Properties.Resources.resources
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\obj\Debug\TTNT.TIC_TAC_TOE.resources
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\obj\Debug\TTNT.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\obj\Debug\TTNT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\obj\Debug\TTNT.exe
+C:\Users\Admin\Desktop\TNTT\TTNT\TTNT\obj\Debug\TTNT.pdb
